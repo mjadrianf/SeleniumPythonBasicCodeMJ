@@ -1,0 +1,14 @@
+[
+  "TestCases/test_FetchData.py::test_verify_registration",
+  "TestCases/test_FirstTestCase.py::test_firstcase",
+  "TestCases/test_FirstTestCase_firefox.py::test_case_firefox",
+  "TestCases/test_KeyboardOperations.py::test_mycase",
+  "TestCases/test_MouseOperations.py::test_mouseOperations",
+  "TestCases/test_multiWindow.py::test_verify_registration",
+  "test_FetchData.py::test_verify_registration",
+  "test_FirstTestCase.py::test_firstcase",
+  "test_FirstTestCase_firefox.py::test_case_firefox",
+  "test_KeyboardOperations.py::test_mycase",
+  "test_MouseOperations.py::test_mouseOperations",
+  "test_multiWindow.py::test_verify_registration"
+]

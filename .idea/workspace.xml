@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b5bd103-7979-4e65-be72-f45aba24986e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumAutomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Lib.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0a0835a5-b75d-4865-be5b-b3a308e25ec9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0b2eb5bd-3c13-49b2-b25b-a45c3f1768ec-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0eaab79c-9e9d-43f4-ab71-c00d574bb1eb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/12012a29-b82b-46bf-b2d6-f4018221178e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/132cc1bd-b586-4ee4-b2b4-738b7e5fe2a0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/17ab6bfa-aaf3-4f66-be57-46080684def7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/20955a5d-4aa6-4beb-94a7-1be634b7d8ff-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2e57f82e-d63a-4db4-b1f2-a866b5efcd8e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/306d2d6c-bded-4f62-93d2-81ad5e33abe6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/3344ff45-dbbc-4772-90ed-ecc3c03106f4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/36445960-8cf7-488a-82be-b1d1762e4eb6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4009e35e-3337-4672-9cab-0c0c5e5418a7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/432348d3-6786-409f-8076-b828d0eb3d61-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/46f41cf9-50f0-47c5-b31d-b3731e87dd77-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/492ce7db-01ee-4d2e-9861-2ca3f28594fc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4e6d736b-d4a4-4561-a336-42a6470bfe66-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5e93cd17-1dc6-47fb-9f34-0905ad7df347-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/66f755ce-e047-4e3d-93f4-30b68247798c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/689c07c7-c2f8-4978-90b9-c1fa2bd5bd6e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/6a735830-a828-4eb3-b75f-63e17da9368c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/6c302d8a-195d-4549-bfde-9bb6fa5132a4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/74e0b206-a886-4ea0-904c-a5f701aaeccb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/761b1a2b-3b8d-4904-bea3-72f925eb322e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/85fe07e2-9373-4059-b49b-2bdb04cdc7c5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/875aa89a-032f-4414-a002-e599f0fc8029-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8b4cecde-dfdf-4299-8ad2-2bd91dc4dcf4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8f057241-6c28-4b19-916f-08e607f46e1a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/91dd956b-a998-42f7-bd17-a37abf7779fc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/927180b2-263a-4adb-af71-d198f7a37dde-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/94fcfc3c-1007-4796-8422-03cc1ecfd596-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/989227c4-193c-44d8-9778-43c48e4ad667-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9d115e38-4add-4ad7-a98a-893c83b578f7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a2dda1ba-9a99-44a6-ba6f-9e449365215d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a6b24856-4a1f-4ab6-83e0-824acd9405f0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a94a89c7-7d31-4a52-bf15-2ec5b6f464b8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ab20006f-6ba1-4288-9368-5e3d9d72b671-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/b808a656-4adc-45af-b1fb-f86c8772727c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/baede643-f304-423c-bbde-e6ca3a04d332-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/bb767d47-f8f0-4a04-b006-a80a3d351f69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/be7cf653-7a68-4cba-a0ff-de814e4193f1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c55f4c1c-4338-4f30-9815-ac19183b4ca7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c67e61a9-a071-4aff-8527-35014b702caf-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ce4e9a06-91ed-4f67-b422-a57bd55af58e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d75e32a3-4860-4d2a-be47-223717f9b53d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/df4b38bf-eb16-4746-8dee-6245ce2c6430-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/e018ea61-547e-4d8c-87dc-c05e2249aecb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/e346987b-3bb9-4399-897a-55d7f3bc7bff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/e5b70d97-82f8-4a8e-8614-d0a0ff57af7d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/eaddabad-7922-4156-ba1d-953013589a46-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f1c2caa7-f99c-4718-826c-c2028e4384be-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f301d0fe-6a44-40a9-9507-f5de84d4951d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/fc9e5683-5eea-49c3-8d4f-fa9f195cffe2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/testrun.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_FetchData.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FetchData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_FirstTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FirstTestCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_FirstTestCase_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FirstTestCase_firefox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_KeyboardOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_KeyboardOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_MouseOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_MouseOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_multiWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_multiWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/140521b90be724e5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/1598deba5916ee88.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/23027fd5a03ace8c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/35440f8015e0ef2f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/3d985136774f481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/454b446edf6e3d1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/48efd15840b73520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/4fa9912b059eb2a6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/61890c024d3ecff7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/70d9def056c9846d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/79d6cc80d46f6728.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/79e772ec22783e4b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/7b2c38bbcbe086c4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/7dfc4912a5b598d7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/89827b5f5a1f6c73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/8c542f663dcfa755.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/92d88c8d821ef32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/93f7de784d5a4f9f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/a12fab16ff506c5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/a5ccb7e4c7e123ef.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/a5edf3f229d2fccf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/ad7ea91cd6ff59db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/b14bba9141dc6cfa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/b5d6ddad8b4083bc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/b976b48529b1c07f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/bd12d70462b6c80d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/bfb208c7b56a7adf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/dd65687a8573e36e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/df50b870786fe2d8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/e532b3317aec3204.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/e99d3e7889fe3b57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/f5c7827e2c67fe39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/fa3f680f850a4200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/fae509b21fd4ab0a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/fbce969d6090ec21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/fe50e0f82fa6897.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/11850522dd48ef16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7fe323e2ac470adf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/890b1756ea9b1c56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/8b5a81772d0295ff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a0800ae0a6be0034.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b86da6d546fbbfd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c298be1a066a14e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d1e35c243127b6f7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e6f4c3bb6f82978a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ef481f1a5967a497.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f97e2d7409ccb3c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f986ef91f0f524b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>countryId</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bDQcxMnxPVMcHXbkMrQc5lBzOB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\Driver" />
+      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\SeleniumAutomation" />
+      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases" />
+      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ReadWriteExcel">
+    <configuration name="FetchData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_FetchData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstTestCase_firefox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_FirstTestCase_firefox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KeyboardOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_KeyboardOperations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MouseOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_MouseOperations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadWriteExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadWriteExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FetchData" />
+      <item itemvalue="Python.FirstTestCase_firefox" />
+      <item itemvalue="Python.KeyboardOperations" />
+      <item itemvalue="Python.MouseOperations" />
+      <item itemvalue="Python.ReadWriteExcel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ReadWriteExcel" />
+        <item itemvalue="Python.FetchData" />
+        <item itemvalue="Python.FirstTestCase_firefox" />
+        <item itemvalue="Python.MouseOperations" />
+        <item itemvalue="Python.KeyboardOperations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5bd103-7979-4e65-be72-f45aba24986e" name="Default" comment="" />
+      <created>1527438356598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527438356598</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="58" key="SettingsEditor" timestamp="1588164293307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588164293307" />
+  </component>
+</project>
